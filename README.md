@@ -34,7 +34,7 @@ https://github.com/forgefed/forgefed (ahhh, irony...)
 ### GitHub bio
 
 1. Working on urbanforest.ai.
-2. Languages wishlist: C, C#, C++, Java, JavaScript, PHP, Python, Ruby, Rust, TypeScript.
+2. Languages wishlist: C, C#, C++, Go, Java, JavaScript, PHP, Python, Ruby, Rust, TypeScript.
    
    Learning them here: https://exercism.io/my/tracks.
    
