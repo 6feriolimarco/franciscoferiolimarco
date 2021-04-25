@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ---
 
+### Federation: a prelude to the utopic death of GitHub
+
 Dreaming that someday ForgeFed becomes strong enough so we all leave GitHub and every other centralized, closed source platform.
 
 https://forgefed.peers.community/
@@ -35,10 +37,12 @@ https://github.com/forgefed/forgefed (ahhh, irony...)
 2. Languages wishlist: C, C#, C++, Java, JavaScript, PHP, Python, Ruby, Rust, TypeScript. Learning them here: https://exercism.io/my/tracks.
 3. Collaborating on destructing monopolies.
 4. Looking for help with maping the urban forest and destructing monopolies.
-5. Ask me whatever you want, but through an ***open source*** application.
+5. Ask me whatever you want, but through an ***open source*** application, if hosted in Europe, better. 😉
 6. How to reach me: email and Telegram.
 7. Pronouns: what da hell??? I'm a man, no need to say what pronouns you have to use for a man.
-8. Fun fact: I'm not good at jokes. :)
+8. Fun fact: I'm not good at jokes. 🙂
+
+---
 
 ### License
 
