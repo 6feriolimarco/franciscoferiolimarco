@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Federation: a prelude to the utopic death of GitHub
 
-Dreaming that someday ForgeFed becomes strong enough so we all leave GitHub and every other centralized, closed source platform.
+Dreaming that someday ForgeFed becomes strong enough so we all leave GitHub and every other centralised, closed source platform.
 
 https://forgefed.peers.community/
 
