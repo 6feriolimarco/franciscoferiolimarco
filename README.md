@@ -34,7 +34,10 @@ https://github.com/forgefed/forgefed (ahhh, irony...)
 ### GitHub bio
 
 1. Working on urbanforest.ai.
-2. Languages wishlist: C, C#, C++, Java, JavaScript, PHP, Python, Ruby, Rust, TypeScript. Learning them here: https://exercism.io/my/tracks.
+2. Languages wishlist: C, C#, C++, Java, JavaScript, PHP, Python, Ruby, Rust, TypeScript.
+   
+   Learning them here: https://exercism.io/my/tracks.
+   
 3. Collaborating on destructing monopolies.
 4. Looking for help with maping the urban forest and destructing monopolies.
 5. Ask me whatever you want, but through an ***open source*** application, if hosted in Europe, better. 😉
