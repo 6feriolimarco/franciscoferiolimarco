@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Federation: a prelude to the utopic descentalisation
+### Federation: a prelude to the utopic descentralisation
 
 Dreaming that someday ForgeFed becomes strong enough so we all leave every centralised, closed source platform.
 
